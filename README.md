@@ -1,7 +1,7 @@
-<img align="right" alt="Mobile App Developer" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Mobile App Developer" src="">
 <h1 align="center">Hi 👋, I'm Shahd Shaaban</h1>
 <h3 align="center">A passionate frontend developer and UI\UX Designer from Egypt</h3>
-<img align="right" alt="ComputerSceince" wigth="200" src="">
+<img align="right" alt="ComputerSceince" wigth="200" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM1Njk5NDksIm5iZiI6MTcyMzU2OTY0OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEzVDE3MjA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhYTdiOWM4MWY4M2Q3MmQ1NTlmODM1MmQ3ZGQzYjMyYjlmYzZkZTQ1ZjcxZjUzY2FjODU5MzQ1YzdiZTYyNmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BpDYuRmx9yRUYTTxp1dHMvS_mlY097nfbB-pCvOkpCU">
 
 - 🔭 I’m currently working on **Frontend and UI\UX**
   
