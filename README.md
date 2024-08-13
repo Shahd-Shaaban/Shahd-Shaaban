@@ -4,6 +4,10 @@
 <img align="right" alt="ComputerSceince" wigth="400" src="https://camo.githubusercontent.com/140204239cd0dda1fd4200544361abdcb4c11a71d02d3d5322894e15a16c7338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966">
 
 - 🔭 I’m currently working on **Frontend and UI\UX**
+  
+-  👨‍💻 I’m currently learning Computer Science
+
+- 👨‍💻 I’m Semi-junior computer Science at SCU
 
 - 🌱 I’m currently learning **Frontend and UI\UX**
 
