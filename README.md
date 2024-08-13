@@ -1,4 +1,4 @@
-<img align="center" alt="Mobile App Developer" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="left" alt="Mobile App Developer" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 <h1 align="center">Hi 👋, I'm Shahd Shaaban</h1>
 <h3 align="center">A passionate frontend developer and UI\UX Designer from Egypt</h3>
 <img align="right" alt="ComputerSceince" wigth="200" src="">
