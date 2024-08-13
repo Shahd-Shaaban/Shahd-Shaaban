@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Shahd Elbarber
+<a href="https://www.linkedin.com/in/shahd-elbarber-4b133a2a1/
  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahd" height="30" width="40" /></a>
 <a href="https://fb.com/shahd el-barber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahd el-barber" height="30" width="40" /></a>
 <a href="https://instagram.com/shahd_elbarber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahd_elbarber" height="30" width="40" /></a>
