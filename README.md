@@ -1,7 +1,7 @@
-<img align="center" alt="Mobile App Developer" src="https://camo.githubusercontent.com/132fddf9d58c7c8b2f814f0b445226d9ca8d63e88b9876697a653c3bf2b508ed/68747470733a2f2f70726f636573732e66696c65737461636b6170692e636f6d2f63616368653d6578706972793a6d61782f726573697a653d77696474683a313035302f6566625352313868543575524b756f307a6f4d41">
+<img align="center" alt="Mobile App Developer" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 <h1 align="center">Hi 👋, I'm Shahd Shaaban</h1>
 <h3 align="center">A passionate frontend developer and UI\UX Designer from Egypt</h3>
-<img align="right" alt="ComputerSceince" wigth="200" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="ComputerSceince" wigth="200" src="">
 
 - 🔭 I’m currently working on **Frontend and UI\UX**
   
